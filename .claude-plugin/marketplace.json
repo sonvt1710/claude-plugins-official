@@ -161,7 +161,7 @@
         "url": "https://github.com/AltimateAI/altimate-claude-plugin.git",
         "path": "plugins/altimate-code",
         "ref": "main",
-        "sha": "b7c8f68b3dfd303ab3ccf2f43934098811dfe2aa"
+        "sha": "f81c9b2125d69b1eb1e966c21bf80425ac569cd2"
       },
       "homepage": "https://www.altimate.ai"
     },
@@ -658,7 +658,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "7f18fbaa9321fa377ede3b65a6791b3e458627d2"
+        "sha": "b4e12a16297e488a7f20f37fd2053276b48f1a7c"
       },
       "homepage": "https://carta.com"
     },
@@ -690,7 +690,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "7f18fbaa9321fa377ede3b65a6791b3e458627d2"
+        "sha": "b4e12a16297e488a7f20f37fd2053276b48f1a7c"
       },
       "homepage": "https://carta.com"
     },
@@ -731,7 +731,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp.git",
-        "sha": "73a53af07b543f95902364add2f16a137ce849b1"
+        "sha": "745ffe7132f8de97cba58b10e6501427fe254cfc"
       },
       "homepage": "https://github.com/ChromeDevTools/chrome-devtools-mcp"
     },
@@ -1274,7 +1274,7 @@
         "url": "https://github.com/microsoft/Dataverse-skills.git",
         "path": ".github/plugins/dataverse",
         "ref": "main",
-        "sha": "a6e497123a1a8a618d9a0dd5764c660861bb9f8b"
+        "sha": "a521f78a822c6525fe913c57d7e9946f1a568fca"
       },
       "homepage": "https://github.com/microsoft/Dataverse-skills"
     },
@@ -1420,7 +1420,7 @@
         "url": "https://github.com/expo/skills.git",
         "path": "plugins/expo",
         "ref": "main",
-        "sha": "ebcce6dbb3ba8168e1c7f85f493ff3430cb0194b"
+        "sha": "cb916609b51a71f73c8230571530ea0e673d1d7a"
       },
       "homepage": "https://github.com/expo/skills/blob/main/plugins/expo/README.md"
     },
@@ -1738,7 +1738,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/heygen-com/hyperframes.git",
-        "sha": "f0034228f5026ffe928db84d83c1ffabd9a1d88a"
+        "sha": "dd7378bbd934ecc0da85c1edfae7946ac7e2271a"
       },
       "homepage": "https://hyperframes.heygen.com"
     },
@@ -2277,7 +2277,7 @@
         "url": "https://github.com/neondatabase/agent-skills.git",
         "path": "plugins/neon-postgres",
         "ref": "main",
-        "sha": "6ca24e462031daf8268471b2bc6bcce1516847da"
+        "sha": "e09dafdc62a11fc8a20134afcb70dc2aab2feb88"
       },
       "homepage": "https://github.com/neondatabase/agent-skills/tree/main/plugins/neon-postgres"
     },
@@ -2838,7 +2838,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/resend/resend-skills.git",
-        "sha": "044372f031ef4a6d2df60354504c757e8018466d"
+        "sha": "a2d064ec1b9e6ea496af346c847ae17e52262b61"
       },
       "homepage": "https://resend.com"
     },
@@ -3246,7 +3246,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/spotify/ads-claude-plugin.git",
-        "sha": "6e5878ea67b35a6893e94853553ff330bca93987"
+        "sha": "1421ab69a67f8b0d48d96cdbe277a4a1a92b8d10"
       },
       "homepage": "https://github.com/spotify/ads-claude-plugin"
     },
@@ -3404,7 +3404,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/togethercomputer/skills.git",
-        "sha": "d93a87cdc7a4ac0d1a75ef70468ad14fcaa56bd2"
+        "sha": "7e8626a7d18a3697d5530aa2707abae4134839c5"
       },
       "homepage": "https://www.together.ai"
     },
@@ -3666,7 +3666,7 @@
         "url": "https://github.com/workos/skills.git",
         "path": "plugins/workos",
         "ref": "main",
-        "sha": "4d470e24d1cbbae0ca4d765c4b7ac0d5e15a4ddd"
+        "sha": "2c3acef61ea29296cb6e73e0c59fb5e98f0b1847"
       },
       "homepage": "https://workos.com"
     },
@@ -3747,7 +3747,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zscaler/zscaler-mcp-server.git",
-        "sha": "70e67db347441caa31f94da8f904389064db0664"
+        "sha": "47fe874551023bf8d138c24612aa4ea0f16aaa56"
       },
       "homepage": "https://github.com/zscaler/zscaler-mcp-server"
     },
@@ -3761,7 +3761,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/skills.git",
-        "sha": "13a79944c3c16cde049bb39576102cd768baa06b"
+        "sha": "ceca1cf45522908f0a312c995ef077ee2a46bc68"
       },
       "homepage": "https://langfuse.com"
     },
