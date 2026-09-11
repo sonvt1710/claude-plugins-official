@@ -4104,7 +4104,7 @@
         "url": "https://github.com/HubSpot/hubspot-mcp-plugins.git",
         "path": "HubSpot-Sales",
         "ref": "main",
-        "sha": "843d5a38f82cdc1b275baf4953a659be0ad41247"
+        "sha": "59bb62ab868795d7f8cb5cd04063b8c99eb35c9d"
       },
       "homepage": "https://www.hubspot.com"
     }
